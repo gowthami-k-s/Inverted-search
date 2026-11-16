@@ -1,0 +1,10 @@
+#0;apple;2;file1.txt;3;file2.txt;1;#
+#1;banana;2;file1.txt;2;file2.txt;2;#
+#2;c;2;file1.txt;1;file2.txt;1;#
+#4;embedded;2;file1.txt;1;file2.txt;1;#
+#7;hello;2;file1.txt;1;file2.txt;1;#
+#12;mango;2;file1.txt;1;file2.txt;1;#
+#14;orange;1;file2.txt;1;#
+#15;programming;2;file1.txt;1;file2.txt;1;#
+#18;systems;2;file1.txt;1;file2.txt;1;#
+#22;world;1;file1.txt;1;#
